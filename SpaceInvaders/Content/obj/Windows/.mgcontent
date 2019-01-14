@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/2018Fall/GameProgramming/FinalProject/toSubmit/LFengFinalProject/LFengFinalProject/Content/Images/alien-strip1.png</File>
+    <File>D:/2018Fall/GameProgramming/FinalProject/toSubmit/LFengFinalProject/LFengFinalProject/Content/Images/alien-strip2.png</File>
+    <File>D:/2018Fall/GameProgramming/FinalProject/toSubmit/LFengFinalProject/LFengFinalProject/Content/Images/alien-strip3.png</File>
+    <File>D:/2018Fall/GameProgramming/FinalProject/toSubmit/LFengFinalProject/LFengFinalProject/Content/Images/alien1.png</File>
+    <File>D:/2018Fall/GameProgramming/FinalProject/toSubmit/LFengFinalProject/LFengFinalProject/Content/Images/alien2.png</File>
+    <File>D:/2018Fall/GameProgramming/FinalProject/toSubmit/LFengFinalProject/LFengFinalProject/Content/Images/alien3.png</File>
+    <File>D:/2018Fall/GameProgramming/FinalProject/toSubmit/LFengFinalProject/LFengFinalProject/Content/Images/alien3_bakcup.png</File>
+    <File>D:/2018Fall/GameProgramming/FinalProject/toSubmit/LFengFinalProject/LFengFinalProject/Content/Images/explosion.png</File>
+    <File>D:/2018Fall/GameProgramming/FinalProject/toSubmit/LFengFinalProject/LFengFinalProject/Content/Images/rocket.png</File>
+    <File>D:/2018Fall/GameProgramming/FinalProject/toSubmit/LFengFinalProject/LFengFinalProject/Content/Images/rocket1.png</File>
+    <File>D:/2018Fall/GameProgramming/FinalProject/toSubmit/LFengFinalProject/LFengFinalProject/Content/Images/rocket2.png</File>
+    <File>D:/2018Fall/GameProgramming/FinalProject/toSubmit/LFengFinalProject/LFengFinalProject/Content/Images/rocket_backup.png</File>
+    <File>D:/2018Fall/GameProgramming/FinalProject/toSubmit/LFengFinalProject/LFengFinalProject/Content/Images/ship-strip.png</File>
+    <File>D:/2018Fall/GameProgramming/FinalProject/toSubmit/LFengFinalProject/LFengFinalProject/Content/Images/ship.png</File>
+    <File>D:/2018Fall/GameProgramming/FinalProject/toSubmit/LFengFinalProject/LFengFinalProject/Content/Fonts/hilightFont.spritefont</File>
+    <File>D:/2018Fall/GameProgramming/FinalProject/toSubmit/LFengFinalProject/LFengFinalProject/Content/Fonts/regularFont.spritefont</File>
+    <File>D:/2018Fall/GameProgramming/FinalProject/toSubmit/LFengFinalProject/LFengFinalProject/Content/Sounds/AlienFire.wav</File>
+    <File>D:/2018Fall/GameProgramming/FinalProject/toSubmit/LFengFinalProject/LFengFinalProject/Content/Sounds/blast1.wav</File>
+    <File>D:/2018Fall/GameProgramming/FinalProject/toSubmit/LFengFinalProject/LFengFinalProject/Content/Sounds/blast2.wav</File>
+    <File>D:/2018Fall/GameProgramming/FinalProject/toSubmit/LFengFinalProject/LFengFinalProject/Content/Sounds/blast3.wav</File>
+    <File>D:/2018Fall/GameProgramming/FinalProject/toSubmit/LFengFinalProject/LFengFinalProject/Content/Sounds/chimes.mp3</File>
+    <File>D:/2018Fall/GameProgramming/FinalProject/toSubmit/LFengFinalProject/LFengFinalProject/Content/Sounds/pop1.wav</File>
+    <File>D:/2018Fall/GameProgramming/FinalProject/toSubmit/LFengFinalProject/LFengFinalProject/Content/Sounds/pop2.wav</File>
+    <File>D:/2018Fall/GameProgramming/FinalProject/toSubmit/LFengFinalProject/LFengFinalProject/Content/Sounds/RocketExp.wav</File>
+    <File>D:/2018Fall/GameProgramming/FinalProject/toSubmit/LFengFinalProject/LFengFinalProject/Content/Sounds/RocketFire.wav</File>
+    <File>D:/2018Fall/GameProgramming/FinalProject/toSubmit/LFengFinalProject/LFengFinalProject/Content/Sounds/ShipFire.wav</File>
+    <File>D:/2018Fall/GameProgramming/FinalProject/toSubmit/LFengFinalProject/LFengFinalProject/Content/Images/bolt.png</File>
+    <File>D:/2018Fall/GameProgramming/FinalProject/toSubmit/LFengFinalProject/LFengFinalProject/Content/Fonts/scoreFont.spritefont</File>
+    <File>D:/2018Fall/GameProgramming/FinalProject/toSubmit/LFengFinalProject/LFengFinalProject/Content/Images/background.png</File>
+    <File>D:/2018Fall/GameProgramming/FinalProject/toSubmit/LFengFinalProject/LFengFinalProject/Content/Images/startbackground.png</File>
+    <File>D:/2018Fall/GameProgramming/FinalProject/toSubmit/LFengFinalProject/LFengFinalProject/Content/Images/help.png</File>
+    <File>D:/2018Fall/GameProgramming/FinalProject/toSubmit/LFengFinalProject/LFengFinalProject/Content/Images/about.png</File>
+  </SourceFiles>
+</SourceFileCollection>

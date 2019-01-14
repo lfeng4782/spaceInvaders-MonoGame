@@ -1,0 +1,211 @@
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Sounds\AlienFire.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Sounds\blast1.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Sounds\blast2.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Sounds\blast3.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Sounds\chimes.wma
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Sounds\chimes.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Sounds\pop1.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Sounds\pop2.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Sounds\RocketExp.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Sounds\RocketFire.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Sounds\ShipFire.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\about.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\alien-strip1.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\alien-strip2.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\alien-strip3.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\alien1.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\alien2.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\alien3.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\alien3_bakcup.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\explosion.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\help.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\rocket.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\rocket1.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\rocket2.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\rocket_backup.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\ship-strip.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\ship.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Fonts\hilightFont.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Fonts\regularFont.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\LFengFinalProject.exe
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\LFengFinalProject.pdb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\SharpDX.dll
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\SharpDX.xml
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\obj\x86\Debug\LFengFinalProject.csprojAssemblyReference.cache
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\obj\x86\Debug\LFengFinalProject.csproj.CoreCompileInputs.cache
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\obj\x86\Debug\LFengFinalProject.csproj.CopyComplete
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\obj\x86\Debug\LFengFinalProject.exe
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\obj\x86\Debug\LFengFinalProject.pdb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\bolt.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Fonts\scoreFont.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\Content\Sounds\AlienFire.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\Content\Sounds\blast1.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\Content\Sounds\blast2.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\Content\Sounds\blast3.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\Content\Sounds\chimes.wma
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\Content\Sounds\chimes.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\Content\Sounds\pop1.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\Content\Sounds\pop2.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\Content\Sounds\RocketExp.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\Content\Sounds\RocketFire.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\Content\Sounds\ShipFire.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\about.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\alien-strip1.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\alien-strip2.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\alien-strip3.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\alien1.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\alien2.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\alien3.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\alien3_bakcup.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\bolt.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\explosion.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\help.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\rocket.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\rocket1.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\rocket2.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\rocket_backup.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\ship-strip.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\ship.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\Content\Fonts\hilightFont.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\Content\Fonts\regularFont.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\Content\Fonts\scoreFont.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\LFengFinalProject.exe
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\LFengFinalProject.pdb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\SharpDX.dll
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\SharpDX.xml
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\obj\x86\Debug\LFengFinalProject.csprojAssemblyReference.cache
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\obj\x86\Debug\LFengFinalProject.csproj.CoreCompileInputs.cache
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\obj\x86\Debug\LFengFinalProject.csproj.CopyComplete
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\obj\x86\Debug\LFengFinalProject.exe
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject - Primary\LFengFinalProject\obj\x86\Debug\LFengFinalProject.pdb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\background.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\startbackground.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\LFengFinalProject.exe.manifest
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\LFengFinalProject.application
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\obj\x86\Debug\LFengFinalProject.exe.manifest
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\obj\x86\Debug\LFengFinalProject.application
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Sounds\AlienFire.xnb
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Sounds\blast1.xnb
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Sounds\blast2.xnb
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Sounds\blast3.xnb
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Sounds\chimes.wma
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Sounds\chimes.xnb
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Sounds\pop1.xnb
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Sounds\pop2.xnb
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Sounds\RocketExp.xnb
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Sounds\RocketFire.xnb
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Sounds\ShipFire.xnb
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\about.xnb
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\alien-strip1.xnb
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\alien-strip2.xnb
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\alien-strip3.xnb
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\alien1.xnb
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\alien2.xnb
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\alien3.xnb
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\alien3_bakcup.xnb
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\background.xnb
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\bolt.xnb
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\explosion.xnb
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\help.xnb
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\rocket.xnb
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\rocket1.xnb
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\rocket2.xnb
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\rocket_backup.xnb
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\ship-strip.xnb
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\ship.xnb
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Images\startbackground.xnb
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Fonts\hilightFont.xnb
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Fonts\regularFont.xnb
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Fonts\scoreFont.xnb
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\LFengFinalProject.exe.manifest
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\LFengFinalProject.application
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\LFengFinalProject.exe
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\LFengFinalProject.pdb
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\SharpDX.dll
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\SharpDX.xml
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\obj\x86\Debug\LFengFinalProject.csprojAssemblyReference.cache
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\obj\x86\Debug\LFengFinalProject.csproj.CoreCompileInputs.cache
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\obj\x86\Debug\LFengFinalProject.exe.manifest
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\obj\x86\Debug\LFengFinalProject.application
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\obj\x86\Debug\LFengFinalProject.csproj.CopyComplete
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\obj\x86\Debug\LFengFinalProject.exe
+G:\A-courses\Game programming - 2370\LFengFinalProject\LFengFinalProject\obj\x86\Debug\LFengFinalProject.pdb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Content\Sounds\AlienFire.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Content\Sounds\blast1.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Content\Sounds\blast2.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Content\Sounds\blast3.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Content\Sounds\chimes.wma
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Content\Sounds\chimes.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Content\Sounds\pop1.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Content\Sounds\pop2.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Content\Sounds\RocketExp.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Content\Sounds\RocketFire.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Content\Sounds\ShipFire.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Content\Images\about.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Content\Images\alien-strip1.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Content\Images\alien-strip2.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Content\Images\alien-strip3.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Content\Images\alien1.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Content\Images\alien2.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Content\Images\alien3.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Content\Images\alien3_bakcup.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Content\Images\background.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Content\Images\bolt.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Content\Images\explosion.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Content\Images\help.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Content\Images\rocket.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Content\Images\rocket1.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Content\Images\rocket2.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Content\Images\rocket_backup.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Content\Images\ship-strip.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Content\Images\ship.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Content\Images\startbackground.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Content\Fonts\hilightFont.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Content\Fonts\regularFont.xnb
+D:\2018Fall\GameProgramming\FinalProject\toSubmit\LFengFinalProject\LFengFinalProject\bin\Windows\x86\Debug\Content\Content\Fonts\scoreFont.xnb

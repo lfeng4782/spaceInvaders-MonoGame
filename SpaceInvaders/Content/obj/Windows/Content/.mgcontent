@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>G:/A-Course/LFengFinalProject/SpaceInvaders/SpaceInvaders/Content/Images/alien-strip1.png</File>
+    <File>G:/A-Course/LFengFinalProject/SpaceInvaders/SpaceInvaders/Content/Images/alien-strip2.png</File>
+    <File>G:/A-Course/LFengFinalProject/SpaceInvaders/SpaceInvaders/Content/Images/alien-strip3.png</File>
+    <File>G:/A-Course/LFengFinalProject/SpaceInvaders/SpaceInvaders/Content/Images/alien1.png</File>
+    <File>G:/A-Course/LFengFinalProject/SpaceInvaders/SpaceInvaders/Content/Images/alien2.png</File>
+    <File>G:/A-Course/LFengFinalProject/SpaceInvaders/SpaceInvaders/Content/Images/alien3.png</File>
+    <File>G:/A-Course/LFengFinalProject/SpaceInvaders/SpaceInvaders/Content/Images/alien3_bakcup.png</File>
+    <File>G:/A-Course/LFengFinalProject/SpaceInvaders/SpaceInvaders/Content/Images/explosion.png</File>
+    <File>G:/A-Course/LFengFinalProject/SpaceInvaders/SpaceInvaders/Content/Images/rocket.png</File>
+    <File>G:/A-Course/LFengFinalProject/SpaceInvaders/SpaceInvaders/Content/Images/rocket1.png</File>
+    <File>G:/A-Course/LFengFinalProject/SpaceInvaders/SpaceInvaders/Content/Images/rocket2.png</File>
+    <File>G:/A-Course/LFengFinalProject/SpaceInvaders/SpaceInvaders/Content/Images/rocket_backup.png</File>
+    <File>G:/A-Course/LFengFinalProject/SpaceInvaders/SpaceInvaders/Content/Images/ship-strip.png</File>
+    <File>G:/A-Course/LFengFinalProject/SpaceInvaders/SpaceInvaders/Content/Images/ship.png</File>
+    <File>G:/A-Course/LFengFinalProject/SpaceInvaders/SpaceInvaders/Content/Fonts/hilightFont.spritefont</File>
+    <File>G:/A-Course/LFengFinalProject/SpaceInvaders/SpaceInvaders/Content/Fonts/regularFont.spritefont</File>
+    <File>G:/A-Course/LFengFinalProject/SpaceInvaders/SpaceInvaders/Content/Sounds/AlienFire.wav</File>
+    <File>G:/A-Course/LFengFinalProject/SpaceInvaders/SpaceInvaders/Content/Sounds/blast1.wav</File>
+    <File>G:/A-Course/LFengFinalProject/SpaceInvaders/SpaceInvaders/Content/Sounds/blast2.wav</File>
+    <File>G:/A-Course/LFengFinalProject/SpaceInvaders/SpaceInvaders/Content/Sounds/blast3.wav</File>
+    <File>G:/A-Course/LFengFinalProject/SpaceInvaders/SpaceInvaders/Content/Sounds/chimes.mp3</File>
+    <File>G:/A-Course/LFengFinalProject/SpaceInvaders/SpaceInvaders/Content/Sounds/pop1.wav</File>
+    <File>G:/A-Course/LFengFinalProject/SpaceInvaders/SpaceInvaders/Content/Sounds/pop2.wav</File>
+    <File>G:/A-Course/LFengFinalProject/SpaceInvaders/SpaceInvaders/Content/Sounds/RocketExp.wav</File>
+    <File>G:/A-Course/LFengFinalProject/SpaceInvaders/SpaceInvaders/Content/Sounds/RocketFire.wav</File>
+    <File>G:/A-Course/LFengFinalProject/SpaceInvaders/SpaceInvaders/Content/Sounds/ShipFire.wav</File>
+    <File>G:/A-Course/LFengFinalProject/SpaceInvaders/SpaceInvaders/Content/Images/bolt.png</File>
+    <File>G:/A-Course/LFengFinalProject/SpaceInvaders/SpaceInvaders/Content/Fonts/scoreFont.spritefont</File>
+    <File>G:/A-Course/LFengFinalProject/SpaceInvaders/SpaceInvaders/Content/Images/background.png</File>
+    <File>G:/A-Course/LFengFinalProject/SpaceInvaders/SpaceInvaders/Content/Images/startbackground.png</File>
+    <File>G:/A-Course/LFengFinalProject/SpaceInvaders/SpaceInvaders/Content/Images/help.png</File>
+    <File>G:/A-Course/LFengFinalProject/SpaceInvaders/SpaceInvaders/Content/Images/about.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

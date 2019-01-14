@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>G:/A-Course/LFengFinalProject/SpaceInvaders/SpaceInvaders/Content/Sounds/chimes.mp3</SourceFile>
+  <SourceTime>2019-01-14T14:14:37.8915251-05:00</SourceTime>
+  <DestFile>G:/A-Course/LFengFinalProject/SpaceInvaders/SpaceInvaders/Content/bin/Windows/Content/Sounds/chimes.xnb</DestFile>
+  <DestTime>2019-01-14T14:39:17.903266-05:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-09-23T17:55:52-04:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-09-23T17:55:52-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>G:/A-Course/LFengFinalProject/SpaceInvaders/SpaceInvaders/Content/bin/Windows/Content/Sounds/chimes.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>
